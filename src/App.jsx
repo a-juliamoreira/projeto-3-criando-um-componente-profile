@@ -4,7 +4,7 @@ export default function App(){
   return(
     <div>
       <Profile 
-        avatar={'../../public/avatar.png'}
+        avatar={'../../public/avataR.png'}
         name={'Júlia Moreira'}
         bio={'Maquiadora'}
         email={'ana.costa@aluno.ce.gov.br'}
