@@ -5,9 +5,9 @@ export default function App(){
     <div>
       <Profile 
         avatar={'../../public/avatar.png'}
-        name={'júlia Moreira'}
+        name={'Júlia Moreira'}
         bio={'Maquiadora'}
-        email={'juli.costa@aluno.ce.gov.br'}
+        email={'ana.costa@aluno.ce.gov.br'}
         phone={'+55 85 99256-3565'}
         githubUrl={'https://github.com/a-juliamoreira'}
         instagramUrl={'https://instagram.com/_juliacoss'}
